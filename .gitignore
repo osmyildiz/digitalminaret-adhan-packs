@@ -1,0 +1,6 @@
+.DS_Store
+*.mp3
+# raw converted files in root
+*_sa.m4a
+*_eg.m4a
+*_pa.m4a
